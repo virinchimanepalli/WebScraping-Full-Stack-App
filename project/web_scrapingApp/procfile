@@ -1,1 +1,1 @@
-web: gunicorn web_scrapingApp.wsgi
+web:gunicorn web_scrapingApp.wsgi
